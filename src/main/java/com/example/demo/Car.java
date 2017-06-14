@@ -3,6 +3,14 @@ package com.example.demo;
 public class Car {
 	private int speed;
 	private String color;
+	private int taiya;
+	
+	public int getTaiya() {
+		return taiya;
+	}
+	public void setTaiya(int taiya) {
+		this.taiya = taiya;
+	}
 	public int getSpeed() {
 		return speed;
 	}
