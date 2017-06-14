@@ -10,6 +10,7 @@ public class Car {
 	}
 	public void setMonth(int month) {
 		this.month = month;
+
 	}
 	public int getSpeed() {
 		return speed;
